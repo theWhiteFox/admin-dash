@@ -12,6 +12,7 @@ This setup includes:
 * [MUI](https://mui.com/)
 * [i18next](https://react.i18next.com/)
 * [tailwindcss](https://tailwindcss.com/)
+* [nivo rocks](https://nivo.rocks/)
 
 ## Client 
 
