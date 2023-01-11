@@ -20,3 +20,4 @@ This setup includes:
 * [Redux Toolkit](https://redux-toolkit.js.org/introduction/getting-started)
 * [MUI](https://mui.com/)
 * [i18next](https://react.i18next.com/)
+* [nivo rocks](https://nivo.rocks/)
